@@ -2,7 +2,7 @@
 
 set -e
 
-echo "==> 建立虛擬環境 (venv)..."
+echo "==> 建立虛擬環境 brew reinstall python@3.13 --with-tcl-tk(venv)..."
 python3 -m venv venv
 source venv/bin/activate
 
